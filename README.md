@@ -1,8 +1,8 @@
 <h2>Current Overview</h2>
 <hr>
-* Quick learner
-* Friendly
-* Dedicated
+  * Quick learner
+  * Friendly
+  * Dedicated
 
 
 
