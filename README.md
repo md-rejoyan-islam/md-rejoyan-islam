@@ -3,7 +3,7 @@
 
 <<<<<<< HEAD
 ### skills
-<img src='./images/1 _6ooq0R60ba3UT5c-QVemA.png'>
+<img src='./images/1 _6ooq0R60ba3UT5c-QVemA.png' style='width:50px'>
 <img src='./images/css-tutorial.png'>
 <img src='./images/logo.png'>
 <img src='./images/React-icon.svg.png'>
