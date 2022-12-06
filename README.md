@@ -1,5 +1,5 @@
 <h2>Current Overview</h2>
-<hr>
+
  <ul>
   <li>Quick learner</li> 
   <li>Friendly</li> 
@@ -9,7 +9,7 @@
 
 
 <h2>Skills</h2>
-<hr>
+
 <p align="center">
       <img src="./images/css.png" />
       <img src="./images/HTML.png" />
@@ -19,7 +19,7 @@
       <img src="./images/react.png" />
       <img src="./images/tailwind.png" />
 </p>
-<hr>
+
 
 
 <h2>Where to find me</h2>
