@@ -11,7 +11,7 @@
     </p>
 
     <h3>Where to find me</h3>
-</p>
+
 
 <a href=""><img src="./images/banner/facebook(2).png" alt=""></a>
 <a href=""><img src="./images/banner/linkedin-logo(2).png" alt=""></a>
