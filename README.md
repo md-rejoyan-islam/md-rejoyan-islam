@@ -13,10 +13,11 @@
 <h2>Skills</h2>
 
 <p align="center">
-      <img src="./images/css.png" />
-      <img src="./images/HTML.png" />
-      <img src="./images/JavaScript.png" />
-      <img src="./images/Material-UI.png" />
+      ![HTML]("./images/HTML.png")
+       ![CSS]("./images/css.png")
+        ![JavaScript]("./images/JavaScript.png")
+        ![JavaScript]("./images/JavaScript.png")
+        ![JavaScript]("./images/JavaScript.png")
       <img src="./images/node.png" />
       <img src="./images/react.png" />
       <img src="./images/tailwind.png" />
