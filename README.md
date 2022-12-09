@@ -13,15 +13,15 @@
 <h2>Skills</h2>
 
 <p align="center">
-      <img src='./images/HTML.png' alt='html'>
-      <img src="./images/css.png" alt='css' />
-      <img src="./images/bootstrap.png" alt='bootstrap' />
-      <img src="./images/tailwind.png" alt='tailwind css' />
-      <img src="./images/mui.png" alt='material ui' />
-      <img src="./images/node.png" alt='node js' />
-      <img src="./images/react.png" alt='react js' />
-      <img src="./images/firebase.png" alt='firebase' />
-      <img src="./images/mongodb.png" alt='mongodb' />
+      <img src='./images/HTML.png' alt='html' title='HTML'>
+      <img src="./images/css.png" alt='css' title='CSS'/>
+      <img src="./images/bootstrap.png" alt='bootstrap' title='BootStrap' />
+      <img src="./images/tailwind.png" alt='tailwind css' title='Tailwind CSS'/>
+      <img src="./images/mui.png" alt='material ui' title='Material UI' />
+      <img src="./images/node.png" alt='node js' title='Node JS'/>
+      <img src="./images/react.png" alt='react js' title='React JS' />
+      <img src="./images/firebase.png" alt='firebase' title='Firebase' />
+      <img src="./images/mongodb.png" alt='mongodb' title='MongoDB'/>
       
       
 </p>
