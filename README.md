@@ -29,8 +29,8 @@
 
 
 <h2>Where to find me</h2>
-<a href=""><img src="./images/banner/facebook(2).png" alt=""></a>
-<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin-logo(2).png" alt=""></a>
-<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter-logo(1).png" alt=""></a>
+<a href=""><img src="./images/banner/facebook.png" alt="facebook"></a>
+<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" alt="linkedIn"></a>
+<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" alt="twitter"></a>
 </div>
  
