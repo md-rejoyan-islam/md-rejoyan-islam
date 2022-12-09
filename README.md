@@ -13,11 +13,6 @@
 <h2>Skills</h2>
 
 <p align="center">
-      ![HTML]([/images/JavaScript.png](https://github.com/RejoyanIslam/RejoyanIslam/blob/main/images/JavaScript.png) "html")
-       ![CSS](./images/css.png)
-        ![JavaScript]("./images/JavaScript.png")
-        ![JavaScript]("./images/JavaScript.png")
-        ![JavaScript]("./images/JavaScript.png")
       <img src="./images/node.png" />
       <img src="./images/react.png" />
       <img src="./images/tailwind.png" />
