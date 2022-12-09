@@ -13,7 +13,7 @@
 <h2>Skills</h2>
 
 <p align="center">
-      ![HTML](./images/HTML.png "html")
+      ![HTML](/images/HTML.png "html")
        ![CSS](./images/css.png)
         ![JavaScript]("./images/JavaScript.png")
         ![JavaScript]("./images/JavaScript.png")
