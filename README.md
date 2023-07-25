@@ -32,7 +32,8 @@
 <h2>Where to find me</h2>
 <a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 5px;"   width="70px" alt="facebook"></a>
 <a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 5px;"  width="70px" alt="linkedIn"></a>
-<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 5px;display:inline;"  width="70px" alt="twitter"></a>
 <a href="tel:+8801568816822"><img src="./images/banner/whatsapp.png" style="padding-right: 5px;display:inline;" width="70px" alt="whatsApp"></a>
+<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 5px;display:inline;"  width="70px" alt="twitter"></a>
+
 
 </div>
