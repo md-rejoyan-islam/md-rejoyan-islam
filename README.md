@@ -28,23 +28,33 @@
 
 ## Skills
 
-<p align="center">
-      <img src='./images/HTML.png'  width="50px" style="padding-right: 10px;"   alt='html' title='HTML'>
-      <img src="./images/css.png"  width="50px" alt='css' style="padding-right: 10px;"   title='CSS' />
-      <img src="./images/sass.png"  width="50px"  style="padding-right: 10px;"  alt='sass' title='SASS'/>
-      <img src="./images/bootstrap.png" width="50px"  style="padding-right: 10px;"   alt='bootstrap' title='BootStrap' />
-      <img src="./images/tailwind.png" width="50px"  style="padding-right: 10px;"   alt='tailwind css' title='Tailwind CSS'/>
-      <img src="./images/mui.png" width="50px"  style="padding-right: 10px;"   alt='material ui' title='Material UI' />
-      <img src="./images/js.png"  width="50px"  style="padding-right: 10px;"  alt='js' title='JavaScript'/>
-      <img src="./images/node.png" width="50px"  style="padding-right: 10px;"   alt='node js' title='Node JS'/>
-      <img src="./images/react.png" width="50px"  style="padding-right: 10px;"   alt='react js' title='React JS' />
-      <img src="./images/firebase.png" width="50px"  style="padding-right: 10px;"   alt='firebase' title='Firebase' />
-      <img src="./images/mongo.png"  width="50px" style="padding-right: 10px;"   alt='mongodb' title='MongoDB'/>
-      <img src="./images/nextjs.png"  width="50px" style="padding-right: 10px;"   alt='nextJs' title='NextJS'/>
-      <img src="./images/redux.png"  width="50px" style="padding-right: 10px;"   alt='redux' title='Redux'/>
-      <img src="./images/socketIo.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='SocketIO'/>
-      
-      
+<p align="left">
+      <a href="https://www.w3.org/html/"><img src='./images/HTML.png'  width="50px" style="padding-right: 10px;"   alt='html' title='HTML'/></a>
+      <a href="https://www.w3.org/Style/CSS/"> <img src="./images/css.png"  width="50px" alt='css' style="padding-right: 10px;"   title='CSS' /></a>
+      <a href="https://sass-lang.com/"><img src="./images/sass.png"  width="50px"  style="padding-right: 10px;"  alt='sass' title='SASS'/> </a>
+      <a href="https://getbootstrap.com/"> <img src="./images/bootstrap.png" width="50px"  style="padding-right: 10px;"   alt='bootstrap' title='BootStrap' /></a>
+      <a href="https://tailwindcss.com/"><img src="./images/tailwind.png" width="50px"  style="padding-right: 10px;"   alt='tailwind css' title='Tailwind CSS'/> </a>
+      <a href="https://mui.com/"><img src="./images/mui.png" width="50px"  style="padding-right: 10px;"   alt='material ui' title='Material UI' /> </a>
+      <a href="https://daisyui.com/"> <img src="./images/daisyui.png"  width="50px"  style="padding-right: 10px;"  alt='daisyui' title='DaisyUI'/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.png"  width="50px"  style="padding-right: 10px;"  alt='js' title='JavaScript'/> </a>
+      <a href="https://www.typescriptlang.org/"> <img src="./images/ts.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='TypeScript'/></a>
+      <a href="https://nodejs.org/en/"><img src="./images/node.png" width="50px"  style="padding-right: 10px;"   alt='node js' title='Node JS'/> </a>
+      <a href="https://react.dev/"><img src="./images/react.png" width="50px"  style="padding-right: 10px;"   alt='react js' title='React JS' /> </a>
+      <a href="https://nextjs.org/"> <img src="./images/nextjs.png"  width="50px" style="padding-right: 10px;"   alt='nextJs' title='NextJS'/></a>
+      <a href="https://redux.js.org/"> <img src="./images/redux.png"  width="50px" style="padding-right: 10px;"   alt='redux' title='Redux'/></a>
+      <a href="https://firebase.google.com/"><img src="./images/firebase.png" width="50px"  style="padding-right: 10px;"   alt='firebase' title='Firebase' /> </a>
+      <a href="https://www.mongodb.com/"><img src="./images/mongo.png"  width="50px" style="padding-right: 10px;"   alt='mongodb' title='MongoDB'/> </a>
+      <a href="https://www.mysql.com/"> <img src="./images/mysql.png"  width="50px"  style="padding-right: 10px;"  alt='mysql' title='MySQL'/></a>
+      <a href="https://www.prisma.io/"> <img src="./images/prisma.png"  width="50px"  style="padding-right: 10px;"  alt='primsa' title='Prisma'/></a>
+      <a href="https://sequelize.org/"> <img src="./images/sequelize.png"  width="50px"  style="padding-right: 10px;"  alt='sequelize' title='Sequelize'/></a>
+      <a href="https://socket.io/"> <img src="./images/socketIo.png"  width="50px"  style="padding-right: 10px;"  alt='socketio' title='SocketIO'/></a>
+      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"  width="50px"  style="padding-right: 10px;"  alt='webrtc' title='WebRTC'/></a>
+      <a href="https://www.python.org/"> <img src="./images/python.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='Python'/></a>
+      <a href="https://www.djangoproject.com/"> <img src="./images/django.png"  width="50px"  style="padding-right: 10px;"  alt='django' title='Django'/></a>
+      <a href="https://www.docker.com/"> <img src="./images/docker.png"  width="50px"  style="padding-right: 10px;"  alt='docker' title='Docker'/></a>
+      <a href="https://wordpress.org"> <img src="./images/wordpress.png"  width="50px"  style="padding-right: 10px;"  alt='wordpress' title='WordPress'/></a>
+      <a href="https://elementor.com/"> <img src="./images/elementor.png"  width="50px"  style="padding-right: 10px;"  alt='elementor' title='Elementor'/></a>
+
 </p>
 
 ## GitHub Stats
@@ -57,12 +67,11 @@
 
 ## Where to find me
 
-<div align="center">
-<a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 10px;"   width="60px" alt="facebook"></a>
-<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 10px;"  width="60px" alt="linkedIn"></a>
-<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 10px;display:inline;"  width="60px" alt="twitter"></a>
-<a href="https://join.skype.com/invite/puxgViZihWnh"><img src="./images/banner/skype.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype"></a>
-<a href="https://discord.com/users/788296371991478312"><img src="./images/banner/discord.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype"></a>
+<p align="left">
+<a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 10px;"   width="60px" alt="facebook" title="Facebook"></a>
+<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 10px;"  width="60px" alt="linkedIn" title="LinkedIn"></a>
+<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 10px;display:inline;"  width="60px" alt="twitter" title="Twitter"></a>
+<a href="https://join.skype.com/invite/puxgViZihWnh"><img src="./images/banner/skype.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype" title="Skype"></a>
+<a href="https://discord.com/users/788296371991478312"><img src="./images/banner/discord.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype" title="Discord"> </a>
 <span href="tel:+8801568816822" target="_blank" ><img src="./images/banner/whatsapp.png" style="padding-right: 10px;display:inline;" width="60px" alt="whatsApp" title="+8801568816822"></span>
-
-</div>
+</p>
