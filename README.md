@@ -1,6 +1,6 @@
 <img src='./images/banner/banner.png'>
 
-<h2>Current Overview</h2>
+## Current Overview
 
  <ul>
   <li>Quick learner</li> 
@@ -8,7 +8,7 @@
   <li>Dedicated</li> 
 </ul>
 
-<h2>Skills</h2>
+## Skills
 
 <p align="center">
       <img src='./images/HTML.png'  width="50px" style="padding-right: 10px;"   alt='html' title='HTML'>
@@ -29,14 +29,20 @@
       
 </p>
 
-<h2>Where to find me</h2>
+## Tools
+
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RejoyanIslam&show_icons=true&locale=en&layout=compact&theme=aura)
+
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=RejoyanIslam&show_icons=true&locale=en&theme=aura)
+
+![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=RejoyanIslam&theme=aura)
+
+## Where to find me
+
 <div align="center">
-<a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 10px;"   width="70px" alt="facebook"></a>
-<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 10px;"  width="70px" alt="linkedIn"></a>
-<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 10px;display:inline;"  width="70px" alt="twitter"></a>
-<span href="tel:+8801568816822" target="_blank" ><img src="./images/banner/whatsapp.png" style="padding-right: 10px;display:inline;" width="70px" alt="whatsApp" title="+8801568816822"></span>
-</div>
-
-
+<a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 10px;"   width="60px" alt="facebook"></a>
+<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 10px;"  width="60px" alt="linkedIn"></a>
+<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 10px;display:inline;"  width="60px" alt="twitter"></a>
+<span href="tel:+8801568816822" target="_blank" ><img src="./images/banner/whatsapp.png" style="padding-right: 10px;display:inline;" width="60px" alt="whatsApp" title="+8801568816822"></span>
 
 </div>
