@@ -1,5 +1,7 @@
 <img src='./images/banner/banner.png'>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
+
 ## Current Overview
 
  <ul>
@@ -43,7 +45,7 @@
 <a href="https://www.facebook.com/rej0yanislam/"><img src="./images/banner/fb.png" style="padding-right: 10px;"   width="60px" alt="facebook"></a>
 <a href="https://www.linkedin.com/in/rej0yanislam/"><img src="./images/banner/linkedin.png" style="padding-right: 10px;"  width="60px" alt="linkedIn"></a>
 <a href="https://twitter.com/rej0yanislam"><img src="./images/banner/twitter.png" style="padding-right: 10px;display:inline;"  width="60px" alt="twitter"></a>
-<a href="https://twitter.com/rej0yanislam"><img src="./images/banner/skype.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype"></a>
+<a href="https://join.skype.com/invite/puxgViZihWnh"><img src="./images/banner/skype.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype"></a>
 <a href="https://discord.com/users/788296371991478312"><img src="./images/banner/discord.png" style="padding-right: 10px;display:inline;"  width="60px" alt="skype"></a>
 <span href="tel:+8801568816822" target="_blank" ><img src="./images/banner/whatsapp.png" style="padding-right: 10px;display:inline;" width="60px" alt="whatsApp" title="+8801568816822"></span>
 
