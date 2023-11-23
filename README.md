@@ -29,31 +29,31 @@
 ## Skills
 
 <p align="left">
-      <a href="https://www.w3.org/html/"><img src='./images/HTML.png'  width="50px" style="padding-right: 10px;"   alt='html' title='HTML'/></a>
-      <a href="https://www.w3.org/Style/CSS/"> <img src="./images/css.png"  width="50px" alt='css' style="padding-right: 10px;"   title='CSS' /></a>
-      <a href="https://sass-lang.com/"><img src="./images/sass.png"  width="50px"  style="padding-right: 10px;"  alt='sass' title='SASS'/> </a>
-      <a href="https://getbootstrap.com/"> <img src="./images/bootstrap.png" width="50px"  style="padding-right: 10px;"   alt='bootstrap' title='BootStrap' /></a>
-      <a href="https://tailwindcss.com/"><img src="./images/tailwind.png" width="50px"  style="padding-right: 10px;"   alt='tailwind css' title='Tailwind CSS'/> </a>
-      <a href="https://mui.com/"><img src="./images/mui.png" width="50px"  style="padding-right: 10px;"   alt='material ui' title='Material UI' /> </a>
-      <a href="https://daisyui.com/"> <img src="./images/daisyui.png"  width="50px"  style="padding-right: 10px;"  alt='daisyui' title='DaisyUI'/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.png"  width="50px"  style="padding-right: 10px;"  alt='js' title='JavaScript'/> </a>
-      <a href="https://www.typescriptlang.org/"> <img src="./images/ts.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='TypeScript'/></a>
-      <a href="https://nodejs.org/en/"><img src="./images/node.png" width="50px"  style="padding-right: 10px;"   alt='node js' title='Node JS'/> </a>
-      <a href="https://react.dev/"><img src="./images/react.png" width="50px"  style="padding-right: 10px;"   alt='react js' title='React JS' /> </a>
-      <a href="https://nextjs.org/"> <img src="./images/nextjs.png"  width="50px" style="padding-right: 10px;"   alt='nextJs' title='NextJS'/></a>
-      <a href="https://redux.js.org/"> <img src="./images/redux.png"  width="50px" style="padding-right: 10px;"   alt='redux' title='Redux'/></a>
-      <a href="https://firebase.google.com/"><img src="./images/firebase.png" width="50px"  style="padding-right: 10px;"   alt='firebase' title='Firebase' /> </a>
-      <a href="https://www.mongodb.com/"><img src="./images/mongo.png"  width="50px" style="padding-right: 10px;"   alt='mongodb' title='MongoDB'/> </a>
-      <a href="https://www.mysql.com/"> <img src="./images/mysql.png"  width="50px"  style="padding-right: 10px;"  alt='mysql' title='MySQL'/></a>
-      <a href="https://www.prisma.io/"> <img src="./images/prisma.png"  width="50px"  style="padding-right: 10px;"  alt='primsa' title='Prisma'/></a>
-      <a href="https://sequelize.org/"> <img src="./images/sequelize.png"  width="50px"  style="padding-right: 10px;"  alt='sequelize' title='Sequelize'/></a>
-      <a href="https://socket.io/"> <img src="./images/socketIo.png"  width="50px"  style="padding-right: 10px;"  alt='socketio' title='SocketIO'/></a>
-      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"  width="50px"  style="padding-right: 10px;"  alt='webrtc' title='WebRTC'/></a>
-      <a href="https://www.python.org/"> <img src="./images/python.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='Python'/></a>
-      <a href="https://www.djangoproject.com/"> <img src="./images/django.png"  width="50px"  style="padding-right: 10px;"  alt='django' title='Django'/></a>
-      <a href="https://www.docker.com/"> <img src="./images/docker.png"  width="50px"  style="padding-right: 10px;"  alt='docker' title='Docker'/></a>
-      <a href="https://wordpress.org"> <img src="./images/wordpress.png"  width="50px"  style="padding-right: 10px;"  alt='wordpress' title='WordPress'/></a>
-      <a href="https://elementor.com/"> <img src="./images/elementor.png"  width="50px"  style="padding-right: 10px;"  alt='elementor' title='Elementor'/></a>
+      <a href="https://www.w3.org/html/"><img src='./images/HTML.png'  width="50px" style="padding-right: 10px;"   alt='html' title='HTML'/></a> &nbsp;
+      <a href="https://www.w3.org/Style/CSS/"> <img src="./images/css.png"  width="50px" alt='css' style="padding-right: 10px;"   title='CSS' /></a> &nbsp;
+      <a href="https://sass-lang.com/"><img src="./images/sass.png"  width="50px"  style="padding-right: 10px;"  alt='sass' title='SASS'/> </a> &nbsp;
+      <a href="https://getbootstrap.com/"> <img src="./images/bootstrap.png" width="50px"  style="padding-right: 10px;"   alt='bootstrap' title='BootStrap' /></a> &nbsp;
+      <a href="https://tailwindcss.com/"><img src="./images/tailwind.png" width="50px"  style="padding-right: 10px;"   alt='tailwind css' title='Tailwind CSS'/> </a> &nbsp;
+      <a href="https://mui.com/"><img src="./images/mui.png" width="50px"  style="padding-right: 10px;"   alt='material ui' title='Material UI' /> </a> &nbsp;
+      <a href="https://daisyui.com/"> <img src="./images/daisyui.png"  width="50px"  style="padding-right: 10px;"  alt='daisyui' title='DaisyUI'/></a> &nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./images/js.png"  width="50px"  style="padding-right: 10px;"  alt='js' title='JavaScript'/> </a> &nbsp;
+      <a href="https://www.typescriptlang.org/"> <img src="./images/ts.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='TypeScript'/></a> &nbsp;
+      <a href="https://nodejs.org/en/"><img src="./images/node.png" width="50px"  style="padding-right: 10px;"   alt='node js' title='Node JS'/> </a> &nbsp;
+      <a href="https://react.dev/"><img src="./images/react.png" width="50px"  style="padding-right: 10px;"   alt='react js' title='React JS' /> </a> &nbsp;
+      <a href="https://nextjs.org/"> <img src="./images/nextjs.png"  width="50px" style="padding-right: 10px;"   alt='nextJs' title='NextJS'/></a> &nbsp;
+      <a href="https://redux.js.org/"> <img src="./images/redux.png"  width="50px" style="padding-right: 10px;"   alt='redux' title='Redux'/></a> &nbsp;
+      <a href="https://firebase.google.com/"><img src="./images/firebase.png" width="50px"  style="padding-right: 10px;"   alt='firebase' title='Firebase' /> </a> &nbsp;
+      <a href="https://www.mongodb.com/"><img src="./images/mongo.png"  width="50px" style="padding-right: 10px;"   alt='mongodb' title='MongoDB'/> </a> &nbsp;
+      <a href="https://www.mysql.com/"> <img src="./images/mysql.png"  width="50px"  style="padding-right: 10px;"  alt='mysql' title='MySQL'/></a> &nbsp;
+      <a href="https://www.prisma.io/"> <img src="./images/prisma.png"  width="50px"  style="padding-right: 10px;"  alt='primsa' title='Prisma'/></a> &nbsp;
+      <a href="https://sequelize.org/"> <img src="./images/sequelize.png"  width="50px"  style="padding-right: 10px;"  alt='sequelize' title='Sequelize'/></a> &nbsp;
+      <a href="https://socket.io/"> <img src="./images/socketIo.png"  width="50px"  style="padding-right: 10px;"  alt='socketio' title='SocketIO'/></a> &nbsp;
+      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"  width="50px"  style="padding-right: 10px;"  alt='webrtc' title='WebRTC'/></a> &nbsp;
+      <a href="https://www.python.org/"> <img src="./images/python.png"  width="50px"  style="padding-right: 10px;"  alt='redux' title='Python'/></a> &nbsp;
+      <a href="https://www.djangoproject.com/"> <img src="./images/django.png"  width="50px"  style="padding-right: 10px;"  alt='django' title='Django'/></a> &nbsp;
+      <a href="https://www.docker.com/"> <img src="./images/docker.png"  width="50px"  style="padding-right: 10px;"  alt='docker' title='Docker'/></a> &nbsp;
+      <a href="https://wordpress.org"> <img src="./images/wordpress.png"  width="50px"  style="padding-right: 10px;"  alt='wordpress' title='WordPress'/></a> &nbsp;
+      <a href="https://elementor.com/"> <img src="./images/elementor.png"  width="50px"  style="padding-right: 10px;"  alt='elementor' title='Elementor'/></a> &nbsp;
 
 </p>
 
