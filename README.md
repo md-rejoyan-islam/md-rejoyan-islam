@@ -1,4 +1,4 @@
-<img src='./images/banner/banner.png'>
+<h1>Hi, I'm Rejoyan Islam</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
 
@@ -8,13 +8,23 @@
 
 -->
 
-## Current Overview
+<!-- ## Current Overview
 
  <ul>
-  <li>Quick learner</li> 
-  <li>Friendly</li> 
-  <li>Dedicated</li> 
-</ul>
+  <li>Quick learner</li>
+  <li>Friendly</li>
+  <li>Dedicated</li>
+</ul> -->
+
+👋 Hello there! I'm Rejoyan Islam, a passionate full-stack web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
+
+🌐 As a seasoned developer, I have expertise in both SQL and NoSQL databases, ensuring that I can design efficient and effective data solutions for any project. Whether it's crafting intricate database queries or optimizing data storage, I thrive in creating seamless backend experiences.
+
+🚀 On the frontend, I specialize in React.js, delivering modern and user-friendly interfaces. My commitment to creating engaging and responsive user experiences is complemented by a solid understanding of Node.js for server-side development.
+
+💡 Additionally, I am well-versed in content management systems like WordPress, allowing me to navigate the world of dynamic content creation effortlessly. My proficiency extends to Django, a powerful Python web framework, enabling me to build robust and maintainable server-side applications.
+
+🌐 Continuously learning and adapting to emerging technologies, I am dedicated to staying at the forefront of web development trends. I am excited about the potential of technology to solve problems and enhance user experiences.
 
 ## Skills
 
@@ -37,7 +47,7 @@
       
 </p>
 
-## Numbers
+## GitHub Stats
 
 ![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RejoyanIslam&show_icons=true&locale=en&layout=compact&theme=aura)
 
