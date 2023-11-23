@@ -2,6 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
 
+<!-- batch -->
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?labelColor=2e333c&logo=javascript&logoColor=F0DB4F)
+
+-->
+
 ## Current Overview
 
  <ul>
