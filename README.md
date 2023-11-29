@@ -75,3 +75,5 @@
 <a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
 <!-- <span href="tel:+8801568816822" target="_blank" ><img src="./images/banner/whatsapp.png" style="padding-right: 10px;display:inline;" width="60px" alt="whatsApp" title="+8801568816822"></span> -->
 </p>
+
+![Snake animation](https://github.com/RejoyanIslam/RejoyanIslam/blob/output/github-contribution-grid-snake.svg)
