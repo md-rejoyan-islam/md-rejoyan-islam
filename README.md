@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rejoyan Islam</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&lines=Passionate Self-Learner;Always learning new technology"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&lines=Passionate%20Self-Learner;Always%20learning%20new%20technology"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
