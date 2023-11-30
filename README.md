@@ -1,6 +1,12 @@
-<h1>Hi, I'm Rejoyan Islam</h1>
+<h1 align="center">Hi, I'm Rejoyan Islam</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&lines=Passionate Self-Learner;Always learning new technology"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
+
+<!-- https://readme-typing-svg.herokuapp.com/?lines=Passionate+Self-Learner;Always%20learning%20new%20technology&center=true&width=500&height=50 -->
 
 <!-- tropy -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=RejoyanIslam"/> -->
@@ -15,6 +21,8 @@
   <li>Friendly</li>
   <li>Dedicated</li>
 </ul> -->
+
+##
 
 👋 Hello there! I'm Rejoyan Islam, a passionate full-stack web developer with a diverse skill set that spans across various technologies. With a strong foundation in JavaScript and Python, I bring a wealth of experience in building robust and scalable web applications.
 
@@ -77,3 +85,7 @@
 </p>
 
 ![Snake animation](https://github.com/RejoyanIslam/RejoyanIslam/blob/output/github-contribution-grid-snake.svg)
+
+## :trophy: Git profile Trophies
+
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RejoyanIslam"/> </p>
