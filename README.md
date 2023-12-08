@@ -60,9 +60,9 @@
 ## Where to find me
 
 <p align="left">
-<a href="https://www.facebook.com/rej0yanislam/"><img src="https://img.shields.io/badge/facebook-0866ff?style=flat-square&logo=facebook&logoColor=white"    height="25px" alt="facebook" title="Facebook"></a> &nbsp;
-<a href="https://www.linkedin.com/in/rej0yanislam/"><img src="https://img.shields.io/badge/linkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"   height="25px" alt="linkedIn" title="LinkedIn"></a> &nbsp;
-<a href="https://twitter.com/rej0yanislam"><img src="https://img.shields.io/badge/twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white" style="padding-right: 10px;display:inline;" height="25px" alt="twitter" title="Twitter"></a> &nbsp;
+<a href="https://www.facebook.com/md.rej0yan.islam"><img src="https://img.shields.io/badge/facebook-0866ff?style=flat-square&logo=facebook&logoColor=white"    height="25px" alt="facebook" title="Facebook"></a> &nbsp;
+<a href="https://www.linkedin.com/in/md-rejoyan-islam/"><img src="https://img.shields.io/badge/linkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white"   height="25px" alt="linkedIn" title="LinkedIn"></a> &nbsp;
+<a href="https://twitter.com/md_rejoyanislam"><img src="https://img.shields.io/badge/twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white" style="padding-right: 10px;display:inline;" height="25px" alt="twitter" title="Twitter"></a> &nbsp;
 <a href="https://join.skype.com/invite/puxgViZihWnh"><img src="https://img.shields.io/badge/skype-0098d5?style=flat-square&logo=skype&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Skype"></a> &nbsp;
 <a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
 </p>
