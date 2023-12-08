@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=200&random=false&lines=Quick%20Learner;Friendly;Dedicated&width=160"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RejoyanIslam&label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rejoyan-islam &label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
 
 ##
 
@@ -51,11 +51,11 @@
 
 ## GitHub Stats
 
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=RejoyanIslam&show_icons=true&locale=en&layout=compact&theme=aura)
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam &show_icons=true&locale=en&layout=compact&theme=aura)
 
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=RejoyanIslam&show_icons=true&locale=en&theme=aura)
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam &show_icons=true&locale=en&theme=aura)
 
-![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=RejoyanIslam&theme=aura)
+![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam &theme=aura)
 
 ## Where to find me
 
@@ -67,8 +67,8 @@
 <a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
 </p>
 
-![Snake animation](https://github.com/RejoyanIslam/RejoyanIslam/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/md-rejoyan-islam /md-rejoyan-islam /blob/output/github-contribution-grid-snake.svg)
 
 ## :trophy: Git profile Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=RejoyanIslam"/> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam "/> </p>
