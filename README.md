@@ -39,11 +39,11 @@
       <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql"      alt='mysql' title='MySQL'/></a> &nbsp;
       <a href="https://www.prisma.io/"> <img src="https://skillicons.dev/icons?i=prisma"      alt='primsa' title='Prisma'/></a> &nbsp;
       <a href="https://sequelize.org/"> <img src="https://skillicons.dev/icons?i=sequelize"      alt='sequelize' title='Sequelize'/></a> &nbsp;
-      <a href="https://socket.io/"> <img src="./images/socketIo.png"   width="50px"   alt='socketio' title='SocketIO'/></a> &nbsp;
-      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"   width="50px"   alt='webrtc' title='WebRTC'/></a> &nbsp;
+<!--       <a href="https://socket.io/"> <img src="./images/socketIo.png"   width="50px"   alt='socketio' title='SocketIO'/></a> &nbsp;
+      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"   width="50px"   alt='webrtc' title='WebRTC'/></a> &nbsp; -->
       <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python"      alt='redux' title='Python'/></a> &nbsp;
       <a href="https://www.djangoproject.com/"> <img src="https://skillicons.dev/icons?i=django"      alt='django' title='Django'/></a> &nbsp;
-      <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker"      alt='docker' title='Docker'/></a> &nbsp;
+<!--       <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker"      alt='docker' title='Docker'/></a> &nbsp; -->
       <a href="https://wordpress.org"> <img src="https://skillicons.dev/icons?i=wordpress"      alt='wordpress' title='WordPress'/></a> &nbsp;
       <a href="https://elementor.com/"> <img src="./images/elementor.png" width="50px"     alt='elementor' title='Elementor'/></a> &nbsp;
 
