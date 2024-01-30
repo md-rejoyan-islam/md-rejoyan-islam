@@ -42,7 +42,7 @@
 <!--       <a href="https://socket.io/"> <img src="./images/socketIo.png"   width="50px"   alt='socketio' title='SocketIO'/></a> &nbsp;
       <a href="https://webrtc.org/"> <img src="./images/webrtc.png"   width="50px"   alt='webrtc' title='WebRTC'/></a> &nbsp; -->
       <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python"      alt='redux' title='Python'/></a> &nbsp;
-      <a href="https://www.djangoproject.com/"> <img src="https://skillicons.dev/icons?i=django"      alt='django' title='Django'/></a> &nbsp;
+   <!--   <a href="https://www.djangoproject.com/"> <img src="https://skillicons.dev/icons?i=django"      alt='django' title='Django'/></a> &nbsp; -->
 <!--       <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker"      alt='docker' title='Docker'/></a> &nbsp; -->
       <a href="https://wordpress.org"> <img src="https://skillicons.dev/icons?i=wordpress"      alt='wordpress' title='WordPress'/></a> &nbsp;
       <a href="https://elementor.com/"> <img src="./images/elementor.png" width="50px"     alt='elementor' title='Elementor'/></a> &nbsp;
@@ -67,7 +67,7 @@
 <a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
 </p>
 
-![Snake animation](https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg)-->
 
 ## :trophy: Git profile Trophies
 
