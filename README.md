@@ -18,7 +18,7 @@
 
 🌐 Continuously learning and adapting to emerging technologies, I am dedicated to staying at the forefront of web development trends. I am excited about the potential of technology to solve problems and enhance user experiences.
 
-## Skills
+## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="left">
       <a href="https://www.w3.org/html/"><img src='https://skillicons.dev/icons?i=html'    alt='html' title='HTML'/></a> &nbsp;
@@ -49,7 +49,7 @@
 
 </p>
 
-## GitHub Stats
+## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
 
 ![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura)
 
@@ -57,7 +57,7 @@
 
 ![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura)
 
-## Where to find me
+## Where to find me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="left">
 <a href="https://www.facebook.com/md.rej0yan.islam"><img src="https://img.shields.io/badge/facebook-0866ff?style=flat-square&logo=facebook&logoColor=white"    height="25px" alt="facebook" title="Facebook"></a> &nbsp;
@@ -69,6 +69,6 @@
 
 <!--![Snake animation](https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg)-->
 
-## :trophy: Git profile Trophies
+## Git profile Trophies :trophy:
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam"/> </p>
