@@ -21,32 +21,194 @@
 ## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="left">
-      <a href="https://www.w3.org/html/"><img src='https://skillicons.dev/icons?i=html'    alt='html' title='HTML'/></a> &nbsp;
-      <a href="https://www.w3.org/Style/CSS/"> <img src="https://skillicons.dev/icons?i=css"   alt='css'    title='CSS' /></a> &nbsp;
-      <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass"      alt='sass' title='SASS'/> </a> &nbsp;
-      <a href="https://getbootstrap.com/"> <img src="https://skillicons.dev/icons?i=bootstrap"      alt='bootstrap' title='BootStrap' /></a> &nbsp;
-      <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind"      alt='tailwind css' title='Tailwind CSS'/> </a> &nbsp;
-      <a href="https://mui.com/"><img src="https://skillicons.dev/icons?i=materialui"      alt='material ui' title='Material UI' /> </a> &nbsp;
-      <a href="https://daisyui.com/"> <img src="./images/daisyui.png" width="50px"     alt='daisyui' title='DaisyUI'/></a> &nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"      alt='js' title='JavaScript'/> </a> &nbsp;
-      <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=ts"      alt='redux' title='TypeScript'/></a> &nbsp;
-      <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?i=nodejs"      alt='node js' title='Node JS'/> </a> &nbsp;
-      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react"      alt='react js' title='React JS' /> </a> &nbsp;
-      <a href="https://nextjs.org/"> <img src="https://skillicons.dev/icons?i=nextjs"      alt='nextJs' title='NextJS'/></a> &nbsp;
-      <a href="https://redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux"      alt='redux' title='Redux'/></a> &nbsp;
-      <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase"      alt='firebase' title='Firebase' /> </a> &nbsp;
-      <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb"      alt='mongodb' title='MongoDB'/> </a> &nbsp;
-      <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql"      alt='mysql' title='MySQL'/></a> &nbsp;
-      <a href="https://www.prisma.io/"> <img src="https://skillicons.dev/icons?i=prisma"      alt='primsa' title='Prisma'/></a> &nbsp;
-      <a href="https://sequelize.org/"> <img src="https://skillicons.dev/icons?i=sequelize"      alt='sequelize' title='Sequelize'/></a> &nbsp;
-<!--       <a href="https://socket.io/"> <img src="./images/socketIo.png"   width="50px"   alt='socketio' title='SocketIO'/></a> &nbsp;
-      <a href="https://webrtc.org/"> <img src="./images/webrtc.png"   width="50px"   alt='webrtc' title='WebRTC'/></a> &nbsp; -->
-      <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python"      alt='redux' title='Python'/></a> &nbsp;
-   <!--   <a href="https://www.djangoproject.com/"> <img src="https://skillicons.dev/icons?i=django"      alt='django' title='Django'/></a> &nbsp; -->
-<!--       <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker"      alt='docker' title='Docker'/></a> &nbsp; -->
-      <a href="https://wordpress.org"> <img src="https://skillicons.dev/icons?i=wordpress"      alt='wordpress' title='WordPress'/></a> &nbsp;
-      <a href="https://elementor.com/"> <img src="./images/elementor.png" width="50px"     alt='elementor' title='Elementor'/></a> &nbsp;
-
+  <!-- html logo  -->
+  <a href="https://www.w3.org/html/">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML" />
+  </a>
+  &nbsp;
+  <!-- css logo  -->
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS" />
+  </a>
+  &nbsp;
+  <!-- sass logo  -->
+  <a href="https://sass-lang.com/">
+    <img src="https://skillicons.dev/icons?i=sass" alt="sass" title="SASS" />
+  </a>
+  &nbsp;
+  <!-- bootstrap logo -->
+  <a href="https://getbootstrap.com/">
+    <img
+      src="https://skillicons.dev/icons?i=bootstrap"
+      alt="bootstrap"
+      title="BootStrap"
+    />
+  </a>
+  &nbsp;
+  <!-- tailwind css logo -->
+  <a href="https://tailwindcss.com/">
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      alt="tailwind css"
+      title="Tailwind CSS"
+    />
+  </a>
+  &nbsp;
+  <!-- material ui logo -->
+  <a href="https://mui.com/">
+    <img
+      src="https://skillicons.dev/icons?i=materialui"
+      alt="material ui"
+      title="Material UI"
+    />
+  </a>
+  &nbsp;
+  <!-- daisy ui logo -->
+  <a href="https://daisyui.com/">
+    <img
+      src="./images/daisyui.png"
+      width="50px"
+      alt="daisyui"
+      title="DaisyUI"
+    />
+  </a>
+  &nbsp;
+  <!-- javascript logo -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="js" title="JavaScript" />
+  </a>
+  &nbsp;
+  <!-- typescript logo -->
+  <a href="https://www.typescriptlang.org/">
+    <img
+      src="https://skillicons.dev/icons?i=ts"
+      alt="redux"
+      title="TypeScript"
+    />
+  </a>
+  &nbsp;
+  <!-- node js logo -->
+  <a href="https://nodejs.org/en/"
+    ><img
+      src="https://skillicons.dev/icons?i=nodejs"
+      alt="node js"
+      title="Node JS"
+    />
+  </a>
+  &nbsp;
+  <!-- react js logo  -->
+  <a href="https://react.dev/"
+    ><img
+      src="https://skillicons.dev/icons?i=react"
+      alt="react js"
+      title="React JS"
+    />
+  </a>
+  &nbsp;
+  <!-- next js logo  -->
+  <a href="https://nextjs.org/">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs"
+      alt="nextJs"
+      title="NextJS"
+  /></a>
+  &nbsp;
+  <!-- redux logo -->
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux" title="Redux"
+  /></a>
+  &nbsp;
+  <!-- firebase logo -->
+  <a href="https://firebase.google.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=firebase"
+      alt="firebase"
+      title="Firebase"
+    />
+  </a>
+  &nbsp;
+  <!-- mongodb logo -->
+  <a href="https://www.mongodb.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=mongodb"
+      alt="mongodb"
+      title="MongoDB"
+    />
+  </a>
+  &nbsp;
+  <!-- mysql logo -->
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"
+  /></a>
+  &nbsp;
+  <!-- prisma orm logo -->
+  <a href="https://www.prisma.io/">
+    <img
+      src="https://skillicons.dev/icons?i=prisma"
+      alt="primsa"
+      title="Prisma"
+  /></a>
+  &nbsp;
+  <!-- sequelize logo -->
+  <a href="https://sequelize.org/">
+    <img
+      src="https://skillicons.dev/icons?i=sequelize"
+      alt="sequelize"
+      title="Sequelize"
+  /></a>
+  &nbsp;
+  <!-- socket.io logo -->
+  <a href="https://socket.io/">
+    <img
+      src="./images/socketIo.png"
+      width="50px"
+      alt="socketio"
+      title="SocketIO"
+  /></a>
+  &nbsp;
+  <!-- webRTC logo -->
+  <a href="https://webrtc.org/">
+    <img src="./images/webrtc.png" width="50px" alt="webrtc" title="WebRTC"
+  /></a>
+  &nbsp;
+  <!-- python logo -->
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" alt="redux" title="Python"
+  /></a>
+  &nbsp;
+  <!-- django logo -->
+  <a href="https://www.djangoproject.com/">
+    <img
+      src="https://skillicons.dev/icons?i=django"
+      alt="django"
+      title="Django"
+  /></a>
+  &nbsp;
+  <!-- flask logo -->
+  <a href="https://www.docker.com/">
+    <img
+      src="https://skillicons.dev/icons?i=docker"
+      alt="docker"
+      title="Docker"
+  /></a>
+  &nbsp;
+  <!-- docker logo  -->
+  <a href="https://wordpress.org">
+    <img
+      src="https://skillicons.dev/icons?i=wordpress"
+      alt="wordpress"
+      title="WordPress"
+  /></a>
+  &nbsp;
+  <!-- elementor logo  -->
+  <a href="https://elementor.com/">
+    <img
+      src="./images/elementor.png"
+      width="50px"
+      alt="elementor"
+      title="Elementor"
+  /></a>
+  &nbsp;
 </p>
 
 ## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
@@ -55,16 +217,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura" />
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=nord_bright" />
   <img alt="Md Rejoyan Islam contribution graph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=nord_bright" />
-</picture> 
+</picture>
 <br/>
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&bg_color=eceff4&border_color=eceff4" />
   <img alt="Md Rejoyan Islam contribution graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&bg_color=eceff4&border_color=eceff4" />
 </picture>
-<br/>
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b" />
@@ -72,24 +231,13 @@
   <img alt="rejoyan_islam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b&bg_color=eceff4&border_color=eceff4" />
 </picture>
 <br/>
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&background=eceff4&border=eceff4" />
   <img alt="rejoyan_islam's Stats" src="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b&bg_color=eceff4&border_color=eceff4" />
 </picture>
 
- <!--   
- ![Md Rejoyan Islam contribution graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura) 
-
-![rejoyan_islam's Most used languages ](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b)
-
-![rejoyan_islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b)
-
-![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b)  
--->
-
-## Contribution <img src = "./images/snake.gif" width="40px" height="40px" alt="Snake animation"> <!-- 🐍 -->
+<h2><h2 style=display:flex;align-items:center>Contribution <img height=40px src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif"width=40px></h2></h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -111,4 +259,8 @@
 
 ## Git profile Trophies :trophy:
 
-![Rejoyan Islam Trophies](https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&theme=radical&margin-w=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+  <img alt="Rejoyan Islam Github Trophies" src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
+</picture>
