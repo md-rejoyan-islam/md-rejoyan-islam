@@ -237,7 +237,7 @@
   <img alt="rejoyan_islam's Stats" src="https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b&bg_color=eceff4&border_color=eceff4" />
 </picture>
 
-<h2><h2 style=display:flex;align-items:center>Contribution <img height=40px src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif"width=40px></h2></h2>
+## Contribution <img alt="Snake Image" height="40px" src="./images/snake.gif" width="40px">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake-dark.svg" />
