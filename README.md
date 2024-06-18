@@ -18,7 +18,7 @@
 
 🌐 Continuously learning and adapting to emerging technologies, I am dedicated to staying at the forefront of web development trends. I am excited about the potential of technology to solve problems and enhance user experiences.
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+## Skills <img src = "./images/skill.gif" width="40px" height="40px">
 
 <p align="left">
   <!-- html logo  -->
@@ -211,7 +211,7 @@
   &nbsp;
 </p>
 
-## GitHub Stats <img src='./images/github_animation.gif' width="40px" height="40px">
+## GitHub Stats <img src='./images/github_animation.gif' width="50px" >
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura" />
@@ -245,7 +245,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## Where to find me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+## Where to find me <img src = "./images/find-me.gif" width="45px" >
 
 <p align="left">
 
