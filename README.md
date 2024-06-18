@@ -51,15 +51,15 @@
 
 ## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura)
+![Md Rejoyan Islam contribution graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura)
 
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b)
+![rejoyan_islam's Most used languages ](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b)
 
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b)
+![rejoyan_islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b)
 
 ![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b)
 
-## Contribution <img src = "./images/snake.gif" width="40px" height="40px"> <!-- 🐍 -->
+## Contribution <img src = "./images/snake.gif" width="40px" height="40px" alt="Snake animation"> <!-- 🐍 -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -76,8 +76,6 @@
 <a href="https://join.skype.com/invite/puxgViZihWnh"><img src="https://img.shields.io/badge/skype-0098d5?style=flat-square&logo=skype&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Skype"></a> &nbsp;
 <a href="https://discord.com/users/788296371991478312"><img src="https://img.shields.io/badge/discord-5562ea?style=flat-square&logo=discord&logoColor=white" style="padding-right: 10px;display:inline;"  height="25px" alt="skype" title="Discord"> </a> &nbsp;
 </p>
-
-<!--![Snake animation](https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg)-->
 
 ## Git profile Trophies :trophy:
 
