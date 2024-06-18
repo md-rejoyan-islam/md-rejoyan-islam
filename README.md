@@ -59,14 +59,13 @@
 
 ![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b)
 
+## Contribution <img src = "./images/snake.gif" width="40px" height="40px" style="margin-bottom:-9px">🐍
 
-## Contribution  <img src = "./images/snake.gif" width="40px" height="40px">🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/md-rejoyan-islam/md-rejoyan-islam/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
 
 ## Where to find me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
