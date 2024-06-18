@@ -52,11 +52,12 @@
 ## GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura)
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura)
 
-![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura)
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=md-rejoyan-islam&show_icons=true&locale=en&layout=compact&theme=aura&border_color=15141b)
 
-![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura)
+![rejoyan_islam's Stats](https://github-readme-stats.vercel.app/api?username=md-rejoyan-islam&show_icons=true&locale=en&theme=aura&border_color=15141b)
+
+![rejoyan_islam's Stats](https://github-readme-streak-stats.herokuapp.com/?user=md-rejoyan-islam&theme=aura&border=15141b)
 
 ## Where to find me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
