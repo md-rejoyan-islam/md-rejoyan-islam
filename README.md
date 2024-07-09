@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rejoyan Islam</h1>
+<h1 align="center">Hi, I'm Rejoyan Islam 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=200&random=false&lines=Quick%20Learner;Friendly;Dedicated&width=160"></a>
@@ -18,7 +18,7 @@
 
 🌐 Continuously learning and adapting to emerging technologies, I am dedicated to staying at the forefront of web development trends. I am excited about the potential of technology to solve problems and enhance user experiences.
 
-## Skills <img src = "./images/skill.gif" width="40px" height="40px">
+## Skills 🚀 
 
 <p align="left">
   <!-- html logo  -->
@@ -211,7 +211,7 @@
   &nbsp;
 </p>
 
-## GitHub Stats <img src='./images/github_animation.gif' width="50px" >
+## GitHub Stats 📊
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-rejoyan-islam&theme=aura" />
@@ -245,7 +245,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## Where to find me <img src = "./images/find-me.gif" width="45px" >
+## Where to find me 🌐
 
 <p align="left">
 
@@ -264,3 +264,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
   <img alt="Rejoyan Islam Github Trophies" src="https://github-profile-trophy.vercel.app/?username=md-rejoyan-islam&margin-w=5" />
 </picture>
+
+## Let's Collaborate 🚀
+
+If you have an interesting project or just want to connect, feel free to reach out!
+
+📧 Email: rejoyanislam0014@gmail.com
