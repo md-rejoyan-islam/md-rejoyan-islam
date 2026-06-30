@@ -1,0 +1,13 @@
+<svg width="1200" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366F1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Wave from top, flat at bottom -->
+  <path d="M0,0 C200,30 400,0 600,20 C800,40 1000,5 1200,25 L1200,80 L0,80 Z" fill="url(#footerGrad)" />
+  <path d="M0,0 C150,20 350,0 550,15 C750,30 950,5 1200,18 L1200,80 L0,80 Z" fill="#7C3AED" fill-opacity="0.3" />
+</svg>
